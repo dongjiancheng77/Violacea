@@ -3,12 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# EPUB files (large binary)
-*.epub
-
-# PDF files (large binary)
-*.pdf
-
 # IDE
 .vscode/
 .idea/
